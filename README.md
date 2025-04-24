@@ -12,6 +12,7 @@ Welcome to my **Personal Portfolio Website** – a clean, responsive, and modern
 - ⚡ Fully responsive design for all devices
 - 📄 Great as a resume/CV or project showcase
 - 🛠️ Built using only HTML, CSS, and JavaScript
+- 🌙 Dark Mode support – switch between light and dark themes with ease
 - 📱 Contact section with social links
 
 &nbsp;
