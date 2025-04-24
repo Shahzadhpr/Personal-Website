@@ -1,0 +1,24 @@
+# VSCode settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Thumbnails
+Thumbs.db
+
+# Log files
+*.log
+
+# Cache folders
+.cache/
+dist/
+build/
+
+# System backups
+*.bak
+*.tmp
+
+# Optional: ignore specific font or image folders if they are too large
+# /assets/fonts/
+# /assets/images/
