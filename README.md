@@ -1,7 +1,8 @@
 # 🌟 Personal Website
 
-![Repo views](https://komarev.com/ghpvc/?username=your-Shahzadhpr&label=Visitors&color=0e75b6&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/your-Shahzadhpr/your-repo-name?style=flat&color=yellow)
+![Repo views](https://komarev.com/ghpvc/?username=Shahzadhpr&label=Visitors&color=0e75b6&style=flat)
+![GitHub stars](https://img.shields.io/github/stars/Shahzadhpr/personal-website?style=flat&color=yellow)
+
 
 Welcome to my **Personal Portfolio Website** – a clean, responsive, and modern site built with **HTML**, **CSS**, and **JavaScript**. It's perfect for showcasing your resume, personal projects, and skills in a sleek online format. 💼✨
 
