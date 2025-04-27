@@ -90,3 +90,9 @@ menuItems.forEach(item => {
         });
     })
 })
+
+cover.addEventListener('click', function () {
+    navToggleIcon.classList.remove('nav__toggle-icon--open');
+    menu.classList.remove('menu--open');
+    cover.classList.remove('cover--show');
+});
