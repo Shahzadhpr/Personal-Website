@@ -2139,7 +2139,7 @@ body {
   .home__photo {
     width: 36rem;
     height: 36rem;
-    border: 1.4rem solid #fff;
+    border: 1.4rem solid var(--section-bg-color);
     background-size: inherit;
   }
 
