@@ -88,6 +88,10 @@ menuItems.forEach(item => {
             top: sectionOffsetTop - 130,
             behavior: "smooth"
         });
+
+        navToggleIcon.classList.remove('nav__toggle-icon--open');
+        menu.classList.remove('menu--open');
+        cover.classList.remove('cover--show');
     })
 })
 
@@ -97,28 +101,3 @@ cover.addEventListener('click', function () {
     cover.classList.remove('cover--show');
 });
 
-// Loops
-sections.forEach(section => {
-    observer.observe(section);
-})
-menuItems.forEach(item => {
-    item.addEventListener("click", function (e) {
-        e.preventDefault();
-        removeActiveClass('menu__item--active');
-        item.classList.add("menu__item--active");
-
-        let sectionClass = item.getAttribute("data-section");
-        let sectionOffsetTop = document.querySelector(`.${sectionClass}`).offsetTop;
-
-        window.scrollTo({
-            top: sectionOffsetTop - 130,
-            behavior: "smooth"
-        });
-    })
-})
-
-cover.addEventListener('click', function () {
-    navToggleIcon.classList.remove('nav__toggle-icon--open');
-    menu.classList.remove('menu--open');
-    cover.classList.remove('cover--show');
-});
