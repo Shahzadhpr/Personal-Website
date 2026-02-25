@@ -10,11 +10,22 @@ Welcome to my **Personal Portfolio Website** – a clean, responsive, and modern
 
 ## 🔥 Features
 
-- ⚡ Fully responsive design for all devices
-- 📄 Great as a resume/CV or project showcase
-- 🛠️ Built using only HTML, CSS, and JavaScript
-- 🌙 Dark Mode support – switch between light and dark themes with ease
-- 📱 Contact section with social links
+- ⚡ Fully responsive design (Mobile, Tablet, Desktop)
+- 🎨 Clean and modern UI/UX
+- 🌙 Dark Mode support (light/dark theme toggle)
+- ✨ Smooth scroll animations using AOS.js
+- 📄 Portfolio & resume showcase sections
+- 📱 Contact section with social media integration
+- 🚀 Optimized for performance and fast loading
+
+&nbsp;
+
+## 🛠️ Tech Stack
+
+- HTML5 – Structure
+- CSS3 / Tailwind-inspired styling – Design & Layout
+- JavaScript (Vanilla JS) – Interactivity
+- AOS.js – Scroll animations
 
 &nbsp;
 
