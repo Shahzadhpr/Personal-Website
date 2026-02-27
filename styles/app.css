@@ -1022,6 +1022,11 @@ body {
   padding-top: 12rem;
 }
 
+html,
+body {
+    overflow-x: hidden;
+}
+
 /*
 
  - Header -
@@ -1417,7 +1422,7 @@ body {
   position: absolute;
   bottom: 0;
   left: 0;
-  width: 100%;
+  width: 100% !important;
   z-index: -1;
 }
 
